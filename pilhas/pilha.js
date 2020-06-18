@@ -38,6 +38,7 @@ class Stack {
     }
 
     clear(){
+        delete(items)
         this.items = {}
         this.count = 0
     }
