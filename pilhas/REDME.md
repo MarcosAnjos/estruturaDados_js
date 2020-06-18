@@ -1,4 +1,4 @@
-# Pilhas 
+## Pilhas 
 
 Uma stack (pilha) é uma estrutura de dados que contém uma array de elementos. Uma pilha finciona no príncioio de LIFO (last in, first out), ou seja 'último a entrar, primeiro a sair'.
 
@@ -23,7 +23,7 @@ Uma stack (pilha) é uma estrutura de dados que contém uma array de elementos. 
 - 5: appDecBin.js : Arquivo usando para teste da função decimal => bin
 - 6: appDecBase.js : Aquivo para teste conversão base e valor
 
-## Como usar
+## Como usar Pilha 
 
 - 1: Realiza o donwload deste repositorio.
 - 2: Abre com vscode
@@ -32,3 +32,8 @@ Uma stack (pilha) é uma estrutura de dados que contém uma array de elementos. 
 - 4: Abra o terminal do vscode:
   - 4.1: node nome_do_arquivo.js
   
+## Referências
+
+- Livro : Estrutura de dados e algoritimos com JS 
+- https://nodejs.org/api/esm.html
+- https://www.youtube.com/watch?v=vylVbb2PY0M (import/export)
